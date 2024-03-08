@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Pesh243
+- 👀 I’m interested in being better than I was yesterday
+- 🌱 I’m currently learning HTML, CSS, js and SQL.
+- 💞️ I’m looking to collaborate on anything that will improve my skills.
+- 📫 Yoou can reach me on pomusina@edu.cdv.pl 
+- ⚡ Fun fact: I can roll my tongue :)
